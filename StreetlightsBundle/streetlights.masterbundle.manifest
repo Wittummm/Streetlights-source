@@ -1,0 +1,67 @@
+ManifestFileVersion: 0
+CRC: 30009650
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4f4c4e88abcdbf555bb9576e1eb8aa87
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 49e43aa6b0681d0bca48d970ea6ca92a
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4f4c4e88abcdbf555bb9576e1eb8aa87
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bc5dcd01db1ebec4d8f143d933b00964, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+Assets:
+- Assets/MyMods/Streetlights/Bundles/Objects/Medium/Traffic/Streetlights/DoubleStreetlamp/Medium/Object.prefab
+- Assets/MyMods/Streetlights/Bundles/Objects/Medium/Traffic/Streetlights/Streetlamp/Low/Object.prefab
+- Assets/MyMods/Streetlights/Bundles/Objects/Medium/Traffic/Streetlights/Streetlamp/High/Object.prefab
+- Assets/MyMods/Streetlights/Bundles/Objects/Medium/Traffic/Streetlights/Streetbulb/Medium/Object.prefab
+- Assets/MyMods/Streetlights/Bundles/Objects/Medium/Traffic/Streetlights/Streetlight/High/Object.prefab
+- Assets/MyMods/Streetlights/Bundles/Objects/Medium/Traffic/Streetlights/Streetbulb/High/Object.prefab
+- Assets/MyMods/Streetlights/Bundles/Objects/Medium/Traffic/Streetlights/DoubleStreetlamp/High/Object.prefab
+- Assets/MyMods/Streetlights/Bundles/Objects/Medium/Traffic/Streetlights/Streetlight/Low/Object.prefab
+- Assets/MyMods/Streetlights/Bundles/Objects/Medium/Traffic/Streetlights/Streetlamp/Medium/Object.prefab
+- Assets/MyMods/Streetlights/Bundles/Objects/Medium/Traffic/Streetlights/Streetbulb/Low/Object.prefab
+- Assets/MyMods/Streetlights/Bundles/Objects/Medium/Traffic/Streetlights/Streetlight/Medium/Object.prefab
+- Assets/MyMods/Streetlights/Bundles/Objects/Medium/Traffic/Streetlights/DoubleStreetlamp/Low/Object.prefab
+Dependencies: []

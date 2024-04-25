@@ -1,0 +1,17 @@
+"Metadata"
+{
+	"GUID" "f15c7e53-10f9-4b02-ad96-22447db2e004"
+	"Type" "SDG.Unturned.ObjectAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Type" "Medium"
+	"Add_Night_Light_Script"
+	"Soft"
+
+	"Rubble" "Destroy"
+	"Rubble_Health" "275"
+	"Rubble_Reset" "300"
+	"Rubble_Effect" "72"
+	"Exclude_From_Culling_Volumes" "true"
+}
