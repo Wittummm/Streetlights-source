@@ -1,5 +1,7 @@
 # Streetlights-source
 Source files for [streetlights mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3230196586) in Unturned.
 
-Free to modify and use.
-Not for commercial use. 
+License: 
+### Statements below are final.
+- Free to modify and use(no credit needed)
+- Not for commercial use.
